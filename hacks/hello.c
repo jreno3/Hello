@@ -1,6 +1,6 @@
 /**
  * Author: Jeremiah Reno
- *         jreno3@cse.unl.edu
+ *         jreno3@huskers.unl.edu
  * Date: 2020/08/17
  *
  * Hack 1.0 assignment
@@ -12,7 +12,7 @@
 int main(int argc, char **argv) {
 
   printf("Jeremiah Reno!\n");
-  printf("Major: Computer Science\n", );
+  printf("Major: Computer Science\n");
 
 
 
